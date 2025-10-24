@@ -1,13 +1,5 @@
-# ios Assignment - challenge 4: Interior Design AR App
+# Interior Design AR App
 
-## Submitted by
-- **Name**: Ravyatha Keerthi Molleti
-- **Registration Number**: RA2111030010274
-- **Course**: B.Tech - CSE with Cyber Security
-- **Assignment**: Challenge 4: ARKit - Interior Design AR Application
-- **Company**: Flam
-
-## Problem Statement
 
 Create an AR application for interior design that allows users to scan their room, place virtual
 furniture, and visualize how it would look with realistic lighting and physics.
