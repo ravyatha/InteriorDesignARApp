@@ -12,7 +12,7 @@ furniture, and visualize how it would look with realistic lighting and physics.
 -  Tap-to-place on detected surfaces
 -  Rotate and scale furniture using gestures
 -  Realistic lighting estimation using ARKit
--  Occlusion handling with real-world objects
+-  Occlusion handling with real world objects
 -  Furniture selection dropdown using SwiftUI `Picker`
 -  Built using MVVM architecture with Combine-based reactive state management
 
